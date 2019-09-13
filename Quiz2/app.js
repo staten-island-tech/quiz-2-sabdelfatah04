@@ -1,13 +1,5 @@
-let johnScore1 = 89;
-let johnScore2 = 120;
-let johnScore3 = 103;
-
-let mikeScore1 = 116;
-let mikeScore2 = 94;
-let mikeScore3 = 123;
-
-let johnAvg = (johnScore1 + johnScore2 + johnScore3) / 3;
-let mikeAvg = (mikeScore1 + mikeScore2 + mikeScore3) /3;
+let johnAvg = (89 + 120 + 103) / 3;
+let mikeAvg = (116 + 94 + 123) /3;
 
 console.log(johnAvg);
 console.log(mikeAvg);
